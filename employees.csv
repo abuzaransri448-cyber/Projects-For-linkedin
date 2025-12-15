@@ -1,0 +1,9 @@
+EmployeeID,Name,Age,Department,Salary,Experience
+1,Ali,24,IT,45000,1
+2,Ayesha,29,HR,55000,5
+3,Usman,35,Finance,70000,10
+4,Fatima,28,IT,60000,4
+5,Ahmed,42,HR,80000,15
+6,Sara,,Finance,65000,7
+7,Hassan,31,IT,60000,6
+8,Ayesha,29,HR,55000,5
